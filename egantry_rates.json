@@ -2,525 +2,1115 @@
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.30712028129496,
-        "Longitude": 103.874440249663,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.30707725514335,
+        "Longitude": 103.8744466425765,
+        "Bearing": 261.6,
+        "LineStart": {
+            "Lat": 1.30712028129496,
+            "Lon": 103.874440249663
+        },
+        "LineEnd": {
+            "Lat": 1.30703422899174,
+            "Lon": 103.87445303549
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.31001828746057,
-        "Longitude": 103.875843794285,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.310007289314865,
+        "Longitude": 103.8758006911865,
+        "Bearing": 345.7,
+        "LineStart": {
+            "Lat": 1.31001828746057,
+            "Lon": 103.875843794285
+        },
+        "LineEnd": {
+            "Lat": 1.30999629116916,
+            "Lon": 103.875757588088
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.30992130479885,
-        "Longitude": 103.875868597975,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.309910538190885,
+        "Longitude": 103.87582431868199,
+        "Bearing": 346.3,
+        "LineStart": {
+            "Lat": 1.30992130479885,
+            "Lon": 103.875868597975
+        },
+        "LineEnd": {
+            "Lat": 1.30989977158292,
+            "Lon": 103.875780039389
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNK",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNK",
-        "Latitude": 1.30277450852639,
-        "Longitude": 103.85342729148,
+        "Name": "Unlisted Gantry UNK",
+        "Latitude": 1.3027181868619149,
+        "Longitude": 103.853494652324,
+        "Bearing": 219.9,
+        "LineStart": {
+            "Lat": 1.30277450852639,
+            "Lon": 103.85342729148
+        },
+        "LineEnd": {
+            "Lat": 1.30266186519744,
+            "Lon": 103.853562013168
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNK",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNK",
-        "Latitude": 1.30269393378567,
-        "Longitude": 103.853360008622,
+        "Name": "Unlisted Gantry UNK",
+        "Latitude": 1.3026371884250398,
+        "Longitude": 103.85342775089501,
+        "Bearing": 220.0,
+        "LineStart": {
+            "Lat": 1.30269393378567,
+            "Lon": 103.853360008622
+        },
+        "LineEnd": {
+            "Lat": 1.30258044306441,
+            "Lon": 103.853495493168
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.33273527588966,
-        "Longitude": 103.862080385889,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.332742987581985,
+        "Longitude": 103.86218049551951,
+        "Bearing": 175.6,
+        "LineStart": {
+            "Lat": 1.33273527588966,
+            "Lon": 103.862080385889
+        },
+        "LineEnd": {
+            "Lat": 1.33275069927431,
+            "Lon": 103.86228060515
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "65",
-        "ZoneID": "ECP",
-        "Name": "ECP towards City (Tanjong Rhu)",
-        "Latitude": 1.3286531600046,
-        "Longitude": 103.911592577984,
-        "WeekdayRates": {}
+        "ZoneID": "PIE",
+        "Name": "PIE westbound before Eunos Link",
+        "Latitude": 1.32856402783657,
+        "Longitude": 103.9116315405395,
+        "Bearing": 246.4,
+        "LineStart": {
+            "Lat": 1.3286531600046,
+            "Lon": 103.911592577984
+        },
+        "LineEnd": {
+            "Lat": 1.32847489566854,
+            "Lon": 103.911670503095
+        },
+        "WeekdayRates": {
+            "07:30-07:35": 0.5,
+            "07:35-07:55": 1.0,
+            "07:55-08:00": 1.0,
+            "08:00-08:05": 1.0,
+            "08:05-08:25": 1.0,
+            "08:25-08:30": 1.0,
+            "08:30-08:35": 1.5,
+            "08:35-08:55": 2.0,
+            "08:55-09:00": 1.5,
+            "09:00-09:05": 1.0,
+            "09:05-09:25": 1.0,
+            "09:25-09:30": 0.5
+        }
     },
     {
         "GantryID": "62",
         "ZoneID": "CBD",
-        "Name": "Fullerton / Bayfront",
-        "Latitude": 1.28858667138236,
-        "Longitude": 103.848893460129,
+        "Name": "South Bridge Road",
+        "Latitude": 1.28853998764416,
+        "Longitude": 103.84896223416851,
+        "Bearing": 214.2,
+        "LineStart": {
+            "Lat": 1.28858667138236,
+            "Lon": 103.848893460129
+        },
+        "LineEnd": {
+            "Lat": 1.28849330390596,
+            "Lon": 103.849031008208
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "56",
-        "ZoneID": "CTE",
-        "Name": "CTE after AMK Ave 1",
-        "Latitude": 1.34085421771387,
-        "Longitude": 103.853286475186,
-        "WeekdayRates": {
-            "08:00-08:05": 1.0,
-            "08:35-08:55": 2.5,
-            "08:55-09:00": 1.5
-        }
+        "ZoneID": "ART",
+        "Name": "Lorong 6 Toa Payoh from Braddell Road",
+        "Latitude": 1.34082547492993,
+        "Longitude": 103.85337451043199,
+        "Bearing": 198.1,
+        "LineStart": {
+            "Lat": 1.34085421771387,
+            "Lon": 103.853286475186
+        },
+        "LineEnd": {
+            "Lat": 1.34079673214599,
+            "Lon": 103.853462545678
+        },
+        "WeekdayRates": {}
     },
     {
         "GantryID": "10",
         "ZoneID": "BMC",
         "Name": "Queen Street",
-        "Latitude": 1.3013303179897,
-        "Longitude": 103.854907719892,
+        "Latitude": 1.301291180354095,
+        "Longitude": 103.85494803279849,
+        "Bearing": 224.2,
+        "LineStart": {
+            "Lat": 1.3013303179897,
+            "Lon": 103.854907719892
+        },
+        "LineEnd": {
+            "Lat": 1.30125204271849,
+            "Lon": 103.854988345705
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "1",
         "ZoneID": "BMC",
         "Name": "Victoria Street",
-        "Latitude": 1.30036174095728,
-        "Longitude": 103.855799737795,
+        "Latitude": 1.300403541120465,
+        "Longitude": 103.8557521453755,
+        "Bearing": 41.3,
+        "LineStart": {
+            "Lat": 1.30036174095728,
+            "Lon": 103.855799737795
+        },
+        "LineEnd": {
+            "Lat": 1.30044534128365,
+            "Lon": 103.855704552956
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "16",
         "ZoneID": "BMC",
         "Name": "Beach Road",
-        "Latitude": 1.29799590376969,
-        "Longitude": 103.857650009061,
+        "Latitude": 1.297948984016325,
+        "Longitude": 103.8576919526555,
+        "Bearing": 228.2,
+        "LineStart": {
+            "Lat": 1.29799590376969,
+            "Lon": 103.857650009061
+        },
+        "LineEnd": {
+            "Lat": 1.29790206426296,
+            "Lon": 103.85773389625
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "11",
         "ZoneID": "BMC",
         "Name": "North Bridge Road",
-        "Latitude": 1.29966074518454,
-        "Longitude": 103.856404410033,
+        "Latitude": 1.2996208943171448,
+        "Longitude": 103.856457344742,
+        "Bearing": 217.0,
+        "LineStart": {
+            "Lat": 1.29966074518454,
+            "Lon": 103.856404410033
+        },
+        "LineEnd": {
+            "Lat": 1.29958104344975,
+            "Lon": 103.856510279451
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNK",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNK",
-        "Latitude": 1.28432840128155,
-        "Longitude": 103.861608745904,
+        "Name": "Unlisted Gantry UNK",
+        "Latitude": 1.28433947261535,
+        "Longitude": 103.8615182541225,
+        "Bearing": 7.0,
+        "LineStart": {
+            "Lat": 1.28432840128155,
+            "Lon": 103.861608745904
+        },
+        "LineEnd": {
+            "Lat": 1.28435054394915,
+            "Lon": 103.861427762341
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "28",
         "ZoneID": "SWC",
         "Name": "Central Boulevard",
-        "Latitude": 1.27450685252253,
-        "Longitude": 103.86061835019,
+        "Latitude": 1.2744200793163851,
+        "Longitude": 103.86056154428499,
+        "Bearing": 303.2,
+        "LineStart": {
+            "Lat": 1.27450685252253,
+            "Lon": 103.86061835019
+        },
+        "LineEnd": {
+            "Lat": 1.27433330611024,
+            "Lon": 103.86050473838
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.30997487458475,
-        "Longitude": 103.870997940371,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.3100608710201551,
+        "Longitude": 103.871000602706,
+        "Bearing": 91.8,
+        "LineStart": {
+            "Lat": 1.30997487458475,
+            "Lon": 103.870997940371
+        },
+        "LineEnd": {
+            "Lat": 1.31014686745556,
+            "Lon": 103.871003265041
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "7",
         "ZoneID": "SWC",
         "Name": "Tanjong Pagar Road",
-        "Latitude": 1.27301912557957,
-        "Longitude": 103.843027600357,
+        "Latitude": 1.273002493584775,
+        "Longitude": 103.8430986052695,
+        "Bearing": 193.2,
+        "LineStart": {
+            "Lat": 1.27301912557957,
+            "Lon": 103.843027600357
+        },
+        "LineEnd": {
+            "Lat": 1.27298586158998,
+            "Lon": 103.843169610182
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "86",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 86",
-        "Latitude": 1.33519325628298,
-        "Longitude": 103.888265047526,
+        "Name": "Unlisted Gantry 86",
+        "Latitude": 1.3351776468455,
+        "Longitude": 103.88822981070851,
+        "Bearing": 336.1,
+        "LineStart": {
+            "Lat": 1.33519325628298,
+            "Lon": 103.888265047526
+        },
+        "LineEnd": {
+            "Lat": 1.33516203740802,
+            "Lon": 103.888194573891
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "808",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 808",
-        "Latitude": 1.3446785022649,
-        "Longitude": 103.898914957454,
+        "Name": "Unlisted Gantry 808",
+        "Latitude": 1.3446821498096,
+        "Longitude": 103.89895604153449,
+        "Bearing": 174.9,
+        "LineStart": {
+            "Lat": 1.3446785022649,
+            "Lon": 103.898914957454
+        },
+        "LineEnd": {
+            "Lat": 1.3446857973543,
+            "Lon": 103.898997125615
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "88",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 88",
-        "Latitude": 1.3423471840646,
-        "Longitude": 103.898953338367,
+        "Name": "Unlisted Gantry 88",
+        "Latitude": 1.34232676636418,
+        "Longitude": 103.89899897926,
+        "Bearing": 204.1,
+        "LineStart": {
+            "Lat": 1.3423471840646,
+            "Lon": 103.898953338367
+        },
+        "LineEnd": {
+            "Lat": 1.34230634866376,
+            "Lon": 103.899044620153
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "87",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 87",
-        "Latitude": 1.33919542890492,
-        "Longitude": 103.897076869307,
+        "Name": "Unlisted Gantry 87",
+        "Latitude": 1.339163512406625,
+        "Longitude": 103.89711667058,
+        "Bearing": 218.7,
+        "LineStart": {
+            "Lat": 1.33919542890492,
+            "Lon": 103.897076869307
+        },
+        "LineEnd": {
+            "Lat": 1.33913159590833,
+            "Lon": 103.897156471853
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "807",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 807",
-        "Latitude": 1.33430275666135,
-        "Longitude": 103.891749846016,
+        "Name": "Unlisted Gantry 807",
+        "Latitude": 1.33426734266181,
+        "Longitude": 103.8917690374555,
+        "Bearing": 241.6,
+        "LineStart": {
+            "Lat": 1.33430275666135,
+            "Lon": 103.891749846016
+        },
+        "LineEnd": {
+            "Lat": 1.33423192866227,
+            "Lon": 103.891788228895
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "85",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 85",
-        "Latitude": 1.31990712743113,
-        "Longitude": 103.876260492476,
+        "Name": "Unlisted Gantry 85",
+        "Latitude": 1.31986477497526,
+        "Longitude": 103.8762440370195,
+        "Bearing": 291.2,
+        "LineStart": {
+            "Lat": 1.31990712743113,
+            "Lon": 103.876260492476
+        },
+        "LineEnd": {
+            "Lat": 1.31982242251939,
+            "Lon": 103.876227581563
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "804",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 804",
-        "Latitude": 1.3182890312568,
-        "Longitude": 103.874837388651,
+        "Name": "Unlisted Gantry 804",
+        "Latitude": 1.31827277214617,
+        "Longitude": 103.8748909213715,
+        "Bearing": 196.9,
+        "LineStart": {
+            "Lat": 1.3182890312568,
+            "Lon": 103.874837388651
+        },
+        "LineEnd": {
+            "Lat": 1.31825651303554,
+            "Lon": 103.874944454092
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "82",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 82",
-        "Latitude": 1.31704175251856,
-        "Longitude": 103.874573158119,
+        "Name": "Unlisted Gantry 82",
+        "Latitude": 1.31704829416174,
+        "Longitude": 103.874523410408,
+        "Bearing": 7.5,
+        "LineStart": {
+            "Lat": 1.31704175251856,
+            "Lon": 103.874573158119
+        },
+        "LineEnd": {
+            "Lat": 1.31705483580492,
+            "Lon": 103.874473662697
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "83",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 83",
-        "Latitude": 1.31639912598318,
-        "Longitude": 103.87476781136,
+        "Name": "Unlisted Gantry 83",
+        "Latitude": 1.31639070822322,
+        "Longitude": 103.8748179903305,
+        "Bearing": 189.5,
+        "LineStart": {
+            "Lat": 1.31639912598318,
+            "Lon": 103.87476781136
+        },
+        "LineEnd": {
+            "Lat": 1.31638229046326,
+            "Lon": 103.874868169301
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "805",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 805",
-        "Latitude": 1.31570445783604,
-        "Longitude": 103.874905236768,
+        "Name": "Unlisted Gantry 805",
+        "Latitude": 1.3157013935350501,
+        "Longitude": 103.8749508943075,
+        "Bearing": 183.8,
+        "LineStart": {
+            "Lat": 1.31570445783604,
+            "Lon": 103.874905236768
+        },
+        "LineEnd": {
+            "Lat": 1.31569832923406,
+            "Lon": 103.874996551847
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNK",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNK",
-        "Latitude": 1.29557775897172,
-        "Longitude": 103.87215427125,
+        "Name": "Unlisted Gantry UNK",
+        "Latitude": 1.29545144182042,
+        "Longitude": 103.87215570250399,
+        "Bearing": 269.4,
+        "LineStart": {
+            "Lat": 1.29557775897172,
+            "Lon": 103.87215427125
+        },
+        "LineEnd": {
+            "Lat": 1.29532512466912,
+            "Lon": 103.872157133758
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "802",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 802",
-        "Latitude": 1.29476426291649,
-        "Longitude": 103.874334664086,
+        "Name": "Unlisted Gantry 802",
+        "Latitude": 1.29470710969586,
+        "Longitude": 103.8744233942785,
+        "Bearing": 212.8,
+        "LineStart": {
+            "Lat": 1.29476426291649,
+            "Lon": 103.874334664086
+        },
+        "LineEnd": {
+            "Lat": 1.29464995647523,
+            "Lon": 103.874512124471
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.33312010738929,
-        "Longitude": 103.861925251832,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.33315443563729,
+        "Longitude": 103.86185366331051,
+        "Bearing": 25.6,
+        "LineStart": {
+            "Lat": 1.33312010738929,
+            "Lon": 103.861925251832
+        },
+        "LineEnd": {
+            "Lat": 1.33318876388529,
+            "Lon": 103.861782074789
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.33336650840136,
-        "Longitude": 103.862259906897,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.33337239166121,
+        "Longitude": 103.8624190256585,
+        "Bearing": 177.9,
+        "LineStart": {
+            "Lat": 1.33336650840136,
+            "Lon": 103.862259906897
+        },
+        "LineEnd": {
+            "Lat": 1.33337827492106,
+            "Lon": 103.86257814442
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "806",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 806",
-        "Latitude": 1.32251636212769,
-        "Longitude": 103.874042185612,
+        "Name": "Unlisted Gantry 806",
+        "Latitude": 1.32248906031654,
+        "Longitude": 103.8740119762715,
+        "Bearing": 317.9,
+        "LineStart": {
+            "Lat": 1.32251636212769,
+            "Lon": 103.874042185612
+        },
+        "LineEnd": {
+            "Lat": 1.32246175850539,
+            "Lon": 103.873981766931
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry ",
-        "Latitude": 1.39015508973126,
-        "Longitude": 103.861231347397,
+        "Name": "Unlisted Gantry ",
+        "Latitude": 1.39015243724374,
+        "Longitude": 103.861230324335,
+        "Bearing": 291.1,
+        "LineStart": {
+            "Lat": 1.39015508973126,
+            "Lon": 103.861231347397
+        },
+        "LineEnd": {
+            "Lat": 1.39014978475622,
+            "Lon": 103.861229301273
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "69",
         "ZoneID": "CBD",
-        "Name": "Fullerton / Bayfront",
-        "Latitude": 1.2854331667432,
-        "Longitude": 103.860807995567,
+        "Name": "Southbound Bayfront Ave",
+        "Latitude": 1.285429570613555,
+        "Longitude": 103.86088420248501,
+        "Bearing": 182.7,
+        "LineStart": {
+            "Lat": 1.2854331667432,
+            "Lon": 103.860807995567
+        },
+        "LineEnd": {
+            "Lat": 1.28542597448391,
+            "Lon": 103.860960409403
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.29295862775069,
-        "Longitude": 103.844046864331,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.2929203501755548,
+        "Longitude": 103.84401881392051,
+        "Bearing": 306.2,
+        "LineStart": {
+            "Lat": 1.29295862775069,
+            "Lon": 103.844046864331
+        },
+        "LineEnd": {
+            "Lat": 1.29288207260042,
+            "Lon": 103.84399076351
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.29295237104489,
-        "Longitude": 103.843905939593,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.2929934467188549,
+        "Longitude": 103.84393562940551,
+        "Bearing": 125.9,
+        "LineStart": {
+            "Lat": 1.29295237104489,
+            "Lon": 103.843905939593
+        },
+        "LineEnd": {
+            "Lat": 1.29303452239282,
+            "Lon": 103.843965319218
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.2929177834544,
-        "Longitude": 103.843943405976,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.29295606103005,
+        "Longitude": 103.8439714563865,
+        "Bearing": 126.2,
+        "LineStart": {
+            "Lat": 1.2929177834544,
+            "Lon": 103.843943405976
+        },
+        "LineEnd": {
+            "Lat": 1.2929943386057,
+            "Lon": 103.843999506797
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.35312051388926,
-        "Longitude": 103.769617039616,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.353137079032865,
+        "Longitude": 103.7696821702205,
+        "Bearing": 165.7,
+        "LineStart": {
+            "Lat": 1.35312051388926,
+            "Lon": 103.769617039616
+        },
+        "LineEnd": {
+            "Lat": 1.35315364417647,
+            "Lon": 103.769747300825
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.35302785238525,
-        "Longitude": 103.769636738547,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.35304512171442,
+        "Longitude": 103.7697071392065,
+        "Bearing": 166.2,
+        "LineStart": {
+            "Lat": 1.35302785238525,
+            "Lon": 103.769636738547
+        },
+        "LineEnd": {
+            "Lat": 1.35306239104359,
+            "Lon": 103.769777539866
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "56",
-        "ZoneID": "CTE",
-        "Name": "CTE after AMK Ave 1",
-        "Latitude": 1.34094965950896,
-        "Longitude": 103.853323873113,
-        "WeekdayRates": {
-            "08:00-08:05": 1.0,
-            "08:35-08:55": 2.5,
-            "08:55-09:00": 1.5
-        }
+        "ZoneID": "ART",
+        "Name": "Lorong 6 Toa Payoh from Braddell Road",
+        "Latitude": 1.340920916723635,
+        "Longitude": 103.853411908362,
+        "Bearing": 198.1,
+        "LineStart": {
+            "Lat": 1.34094965950896,
+            "Lon": 103.853323873113
+        },
+        "LineEnd": {
+            "Lat": 1.34089217393831,
+            "Lon": 103.853499943611
+        },
+        "WeekdayRates": {}
     },
     {
         "GantryID": "49",
         "ZoneID": "CBD",
-        "Name": "YMCA / Fort Canning",
-        "Latitude": 1.2976845253451,
-        "Longitude": 103.84635544005,
+        "Name": "Fort Canning Tunnel Gantry",
+        "Latitude": 1.2977326599671248,
+        "Longitude": 103.8463928197355,
+        "Bearing": 127.8,
+        "LineStart": {
+            "Lat": 1.2976845253451,
+            "Lon": 103.84635544005
+        },
+        "LineEnd": {
+            "Lat": 1.29778079458915,
+            "Lon": 103.846430199421
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "801",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 801",
-        "Latitude": 1.29570838233568,
-        "Longitude": 103.874121113495,
+        "Name": "Unlisted Gantry 801",
+        "Latitude": 1.29565951403551,
+        "Longitude": 103.874124474613,
+        "Bearing": 266.1,
+        "LineStart": {
+            "Lat": 1.29570838233568,
+            "Lon": 103.874121113495
+        },
+        "LineEnd": {
+            "Lat": 1.29561064573534,
+            "Lon": 103.874127835731
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "OS041",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry OS041",
-        "Latitude": 1.3010340579585,
-        "Longitude": 103.776600774241,
+        "Name": "Unlisted Gantry OS041",
+        "Latitude": 1.301111373238985,
+        "Longitude": 103.776652623502,
+        "Bearing": 123.8,
+        "LineStart": {
+            "Lat": 1.3010340579585,
+            "Lon": 103.776600774241
+        },
+        "LineEnd": {
+            "Lat": 1.30118868851947,
+            "Lon": 103.776704472763
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "29",
         "ZoneID": "SWC",
-        "Name": "MCE Slip to Maxwell Rd",
-        "Latitude": 1.27469974891688,
-        "Longitude": 103.850132183576,
+        "Name": "Slip Road from Westbound MCE towards Maxwell Road",
+        "Latitude": 1.27464482542659,
+        "Longitude": 103.85007079209,
+        "Bearing": 318.2,
+        "LineStart": {
+            "Lat": 1.27469974891688,
+            "Lon": 103.850132183576
+        },
+        "LineEnd": {
+            "Lat": 1.2745899019363,
+            "Lon": 103.850009400604
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "OS074",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry OS074",
-        "Latitude": 1.31643174271375,
-        "Longitude": 103.758780356992,
+        "Name": "Unlisted Gantry OS074",
+        "Latitude": 1.316373473458905,
+        "Longitude": 103.7587141953375,
+        "Bearing": 318.6,
+        "LineStart": {
+            "Lat": 1.31643174271375,
+            "Lon": 103.758780356992
+        },
+        "LineEnd": {
+            "Lat": 1.31631520420406,
+            "Lon": 103.758648033683
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "91",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 91",
-        "Latitude": 1.27053638209091,
-        "Longitude": 103.85659146084,
+        "ZoneID": "MCE",
+        "Name": "MCE Westbound before exit to Maxwell Rd",
+        "Latitude": 1.270653664061685,
+        "Longitude": 103.8566570544745,
+        "Bearing": 119.2,
+        "LineStart": {
+            "Lat": 1.27053638209091,
+            "Lon": 103.85659146084
+        },
+        "LineEnd": {
+            "Lat": 1.27077094603246,
+            "Lon": 103.856722648109
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNK",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNK",
-        "Latitude": 1.29545389424195,
-        "Longitude": 103.876764595562,
+        "Name": "Unlisted Gantry UNK",
+        "Latitude": 1.295356629772215,
+        "Longitude": 103.87676805778949,
+        "Bearing": 268.0,
+        "LineStart": {
+            "Lat": 1.29545389424195,
+            "Lon": 103.876764595562
+        },
+        "LineEnd": {
+            "Lat": 1.29525936530248,
+            "Lon": 103.876771520017
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "48",
         "ZoneID": "CBD",
-        "Name": "Handy Road",
-        "Latitude": 1.29882875353234,
-        "Longitude": 103.848060151191,
+        "Name": "Handy Road Gantry",
+        "Latitude": 1.2987374565247398,
+        "Longitude": 103.8480646397905,
+        "Bearing": 267.2,
+        "LineStart": {
+            "Lat": 1.29882875353234,
+            "Lon": 103.848060151191
+        },
+        "LineEnd": {
+            "Lat": 1.29864615951714,
+            "Lon": 103.84806912839
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.32616379226269,
-        "Longitude": 103.860458223581,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.326088727416385,
+        "Longitude": 103.86052906163201,
+        "Bearing": 226.7,
+        "LineStart": {
+            "Lat": 1.32616379226269,
+            "Lon": 103.860458223581
+        },
+        "LineEnd": {
+            "Lat": 1.32601366257008,
+            "Lon": 103.860599899683
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.33273527588966,
-        "Longitude": 103.862080385889,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.332742987581985,
+        "Longitude": 103.86218049551951,
+        "Bearing": 175.6,
+        "LineStart": {
+            "Lat": 1.33273527588966,
+            "Lon": 103.862080385889
+        },
+        "LineEnd": {
+            "Lat": 1.33275069927431,
+            "Lon": 103.86228060515
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.33312010738929,
-        "Longitude": 103.861925251832,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.33315443563729,
+        "Longitude": 103.86185366331051,
+        "Bearing": 25.6,
+        "LineStart": {
+            "Lat": 1.33312010738929,
+            "Lon": 103.861925251832
+        },
+        "LineEnd": {
+            "Lat": 1.33318876388529,
+            "Lon": 103.861782074789
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.33336650840136,
-        "Longitude": 103.862259906897,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.33337239166121,
+        "Longitude": 103.8624190256585,
+        "Bearing": 177.9,
+        "LineStart": {
+            "Lat": 1.33336650840136,
+            "Lon": 103.862259906897
+        },
+        "LineEnd": {
+            "Lat": 1.33337827492106,
+            "Lon": 103.86257814442
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "47",
         "ZoneID": "CBD",
-        "Name": "YMCA / Fort Canning",
-        "Latitude": 1.29795807342786,
-        "Longitude": 103.84793864949,
+        "Name": "YMCA Gantry",
+        "Latitude": 1.2980250548867551,
+        "Longitude": 103.847993343368,
+        "Bearing": 129.2,
+        "LineStart": {
+            "Lat": 1.29795807342786,
+            "Lon": 103.84793864949
+        },
+        "LineEnd": {
+            "Lat": 1.29809203634565,
+            "Lon": 103.848048037246
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNK",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNK",
-        "Latitude": 1.29545389424195,
-        "Longitude": 103.876764595562,
+        "Name": "Unlisted Gantry UNK",
+        "Latitude": 1.295356629772215,
+        "Longitude": 103.87676805778949,
+        "Bearing": 268.0,
+        "LineStart": {
+            "Lat": 1.29545389424195,
+            "Lon": 103.876764595562
+        },
+        "LineEnd": {
+            "Lat": 1.29525936530248,
+            "Lon": 103.876771520017
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "93",
         "ZoneID": "MCE",
-        "Name": "MCE Westbound",
-        "Latitude": 1.27093828965262,
-        "Longitude": 103.856430492828,
-        "WeekdayRates": {}
+        "Name": "MCE eastbound on slip road after Marina Boulevard",
+        "Latitude": 1.271051615939495,
+        "Longitude": 103.8564955760625,
+        "Bearing": 119.9,
+        "LineStart": {
+            "Lat": 1.27093828965262,
+            "Lon": 103.856430492828
+        },
+        "LineEnd": {
+            "Lat": 1.27116494222637,
+            "Lon": 103.856560659297
+        },
+        "WeekdayRates": {
+            "18:30-18:35": 0.5,
+            "18:35-18:55": 1.0,
+            "18:55-19:00": 0.5
+        }
     },
     {
         "GantryID": "81",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 81",
-        "Latitude": 1.29582618794866,
-        "Longitude": 103.880130266407,
+        "Name": "Unlisted Gantry 81",
+        "Latitude": 1.2958709811485698,
+        "Longitude": 103.880128932892,
+        "Bearing": 88.3,
+        "LineStart": {
+            "Lat": 1.29582618794866,
+            "Lon": 103.880130266407
+        },
+        "LineEnd": {
+            "Lat": 1.29591577434848,
+            "Lon": 103.880127599377
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "90",
         "ZoneID": "MCE",
-        "Name": "MCE Westbound",
-        "Latitude": 1.27501784645823,
-        "Longitude": 103.867015375785,
+        "Name": "MCE Westbound before exit to Central Boulevard",
+        "Latitude": 1.2749906876796349,
+        "Longitude": 103.8670344118175,
+        "Bearing": 235.0,
+        "LineStart": {
+            "Lat": 1.27501784645823,
+            "Lon": 103.867015375785
+        },
+        "LineEnd": {
+            "Lat": 1.27496352890104,
+            "Lon": 103.86705344785
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "40",
-        "ZoneID": "AYE",
-        "Name": "AYE near N. Buona Vista",
-        "Latitude": 1.32721367520951,
-        "Longitude": 103.868529719161,
+        "ZoneID": "ART",
+        "Name": "Bendemeer Road Southbound after Woodsville Interchange",
+        "Latitude": 1.32724731710542,
+        "Longitude": 103.868467074657,
+        "Bearing": 28.2,
+        "LineStart": {
+            "Lat": 1.32721367520951,
+            "Lon": 103.868529719161
+        },
+        "LineEnd": {
+            "Lat": 1.32728095900133,
+            "Lon": 103.868404430153
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "57",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 57",
-        "Latitude": 1.32189132707405,
-        "Longitude": 103.872866005126,
+        "ZoneID": "ART",
+        "Name": "Kallang Bahru from PIE",
+        "Latitude": 1.321940695911445,
+        "Longitude": 103.872835542726,
+        "Bearing": 58.3,
+        "LineStart": {
+            "Lat": 1.32189132707405,
+            "Lon": 103.872866005126
+        },
+        "LineEnd": {
+            "Lat": 1.32199006474884,
+            "Lon": 103.872805080326
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.3536245604101,
-        "Longitude": 103.787824782277,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.3535524636287501,
+        "Longitude": 103.7877785704735,
+        "Bearing": 302.7,
+        "LineStart": {
+            "Lat": 1.3536245604101,
+            "Lon": 103.787824782277
+        },
+        "LineEnd": {
+            "Lat": 1.3534803668474,
+            "Lon": 103.78773235867
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.34654313617804,
-        "Longitude": 103.859254952288,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.3465919374261799,
+        "Longitude": 103.8593868360525,
+        "Bearing": 159.7,
+        "LineStart": {
+            "Lat": 1.34654313617804,
+            "Lon": 103.859254952288
+        },
+        "LineEnd": {
+            "Lat": 1.34664073867432,
+            "Lon": 103.859518719817
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "OS052",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry OS052",
-        "Latitude": 1.3151559750009,
-        "Longitude": 103.760899123745,
+        "Name": "Unlisted Gantry OS052",
+        "Latitude": 1.315162784127395,
+        "Longitude": 103.7608585234795,
+        "Bearing": 9.5,
+        "LineStart": {
+            "Lat": 1.3151559750009,
+            "Lon": 103.760899123745
+        },
+        "LineEnd": {
+            "Lat": 1.31516959325389,
+            "Lon": 103.760817923214
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "3",
         "ZoneID": "SWC",
         "Name": "Eu Tong Sen Street",
-        "Latitude": 1.28064836348028,
-        "Longitude": 103.840339993313,
+        "Latitude": 1.2806966187467852,
+        "Longitude": 103.840280465734,
+        "Bearing": 39.0,
+        "LineStart": {
+            "Lat": 1.28064836348028,
+            "Lon": 103.840339993313
+        },
+        "LineEnd": {
+            "Lat": 1.28074487401329,
+            "Lon": 103.840220938155
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "36",
         "ZoneID": "AYE",
-        "Name": "AYE before Alexandra",
-        "Latitude": 1.28683422892511,
-        "Longitude": 103.796852962868,
+        "Name": "AYE between Portsdown Road and Alexandra Road Citybound",
+        "Latitude": 1.2867433824907,
+        "Longitude": 103.7968017433275,
+        "Bearing": 299.4,
+        "LineStart": {
+            "Lat": 1.28683422892511,
+            "Lon": 103.796852962868
+        },
+        "LineEnd": {
+            "Lat": 1.28665253605629,
+            "Lon": 103.796750523787
+        },
         "WeekdayRates": {
-            "08:35-08:55": 3.0,
-            "08:55-09:00": 2.5,
-            "09:00-09:25": 1.0,
+            "08:00-08:05": 0.5,
+            "08:05-08:25": 1.0,
+            "08:25-08:30": 1.0,
+            "08:30-08:35": 1.5,
+            "08:35-08:55": 2.0,
+            "08:55-09:00": 1.5,
+            "09:00-09:05": 1.0,
+            "09:05-09:25": 1.0,
             "09:25-09:30": 0.5
         }
     },
@@ -528,350 +1118,824 @@
         "GantryID": "6",
         "ZoneID": "SWC",
         "Name": "Anson Road",
-        "Latitude": 1.2733540988002,
-        "Longitude": 103.844357241223,
+        "Latitude": 1.2733070765438699,
+        "Longitude": 103.8444154014385,
+        "Bearing": 219.0,
+        "LineStart": {
+            "Lat": 1.2733540988002,
+            "Lon": 103.844357241223
+        },
+        "LineEnd": {
+            "Lat": 1.27326005428754,
+            "Lon": 103.844473561654
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "58",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 58",
-        "Latitude": 1.32012500563195,
-        "Longitude": 103.87172082214,
+        "ZoneID": "ART",
+        "Name": "Geylang Bahru westbound after Geylang Bahru Terrace",
+        "Latitude": 1.3201484212381849,
+        "Longitude": 103.87176263751451,
+        "Bearing": 150.7,
+        "LineStart": {
+            "Lat": 1.32012500563195,
+            "Lon": 103.87172082214
+        },
+        "LineEnd": {
+            "Lat": 1.32017183684442,
+            "Lon": 103.871804452889
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "42",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 42",
-        "Latitude": 1.3290500718548,
-        "Longitude": 103.864614348165,
-        "WeekdayRates": {}
+        "ZoneID": "PIE",
+        "Name": "PIE slip road into CTE",
+        "Latitude": 1.3290062752685698,
+        "Longitude": 103.864616257044,
+        "Bearing": 267.5,
+        "LineStart": {
+            "Lat": 1.3290500718548,
+            "Lon": 103.864614348165
+        },
+        "LineEnd": {
+            "Lat": 1.32896247868234,
+            "Lon": 103.864618165923
+        },
+        "WeekdayRates": {
+            "07:30-07:35": 1.0,
+            "07:35-07:55": 2.0,
+            "07:55-08:00": 2.0,
+            "08:00-08:05": 3.0,
+            "08:05-08:25": 4.0,
+            "08:25-08:30": 4.0,
+            "08:30-08:35": 4.5,
+            "08:35-08:55": 5.0,
+            "08:55-09:00": 4.5,
+            "09:00-09:05": 4.0,
+            "09:05-09:25": 4.0,
+            "09:25-09:30": 3.5,
+            "09:30-09:35": 3.0,
+            "09:35-09:55": 3.0,
+            "09:55-10:00": 1.5
+        }
     },
     {
         "GantryID": "33",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 33",
-        "Latitude": 1.32911730055134,
-        "Longitude": 103.864610296526,
-        "WeekdayRates": {}
+        "ZoneID": "CTE",
+        "Name": "CTE after Serangoon Road",
+        "Latitude": 1.32908422249768,
+        "Longitude": 103.8646118133205,
+        "Bearing": 267.4,
+        "LineStart": {
+            "Lat": 1.32911730055134,
+            "Lon": 103.864610296526
+        },
+        "LineEnd": {
+            "Lat": 1.32905114444402,
+            "Lon": 103.864613330115
+        },
+        "WeekdayRates": {
+            "07:30-07:35": 1.0,
+            "07:35-07:55": 2.0,
+            "07:55-08:00": 2.0,
+            "08:00-08:05": 3.0,
+            "08:05-08:25": 4.0,
+            "08:25-08:30": 4.0,
+            "08:30-08:35": 4.5,
+            "08:35-08:55": 5.0,
+            "08:55-09:00": 4.5,
+            "09:00-09:05": 4.0,
+            "09:05-09:25": 4.0,
+            "09:25-09:30": 3.5,
+            "09:30-09:35": 3.0,
+            "09:35-09:55": 3.0,
+            "09:55-10:00": 1.5
+        }
     },
     {
         "GantryID": "80",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 80",
-        "Latitude": 1.29392762460873,
-        "Longitude": 103.87536314591,
+        "ZoneID": "KPE",
+        "Name": "KPE slip road into citybound ECP",
+        "Latitude": 1.2938771810989298,
+        "Longitude": 103.87538192551901,
+        "Bearing": 249.6,
+        "LineStart": {
+            "Lat": 1.29392762460873,
+            "Lon": 103.87536314591
+        },
+        "LineEnd": {
+            "Lat": 1.29382673758913,
+            "Lon": 103.875400705128
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "4",
         "ZoneID": "ORC",
         "Name": "Orchard Link",
-        "Latitude": 1.30067556161774,
-        "Longitude": 103.834879425106,
+        "Latitude": 1.30064213580579,
+        "Longitude": 103.834937035313,
+        "Bearing": 210.1,
+        "LineStart": {
+            "Lat": 1.30067556161774,
+            "Lon": 103.834879425106
+        },
+        "LineEnd": {
+            "Lat": 1.30060870999384,
+            "Lon": 103.83499464552
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "61",
         "ZoneID": "CBD",
-        "Name": "Fullerton / Bayfront",
-        "Latitude": 1.28932445783077,
-        "Longitude": 103.847637314758,
+        "Name": "New Bridge Road",
+        "Latitude": 1.289260057132235,
+        "Longitude": 103.8477121520965,
+        "Bearing": 220.7,
+        "LineStart": {
+            "Lat": 1.28932445783077,
+            "Lon": 103.847637314758
+        },
+        "LineEnd": {
+            "Lat": 1.2891956564337,
+            "Lon": 103.847786989435
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "66",
         "ZoneID": "CBD",
-        "Name": "New Bridge / Eu Tong Sen",
-        "Latitude": 1.28544227423167,
-        "Longitude": 103.860674738619,
+        "Name": "Northbound Bayfront Ave",
+        "Latitude": 1.2854374908126651,
+        "Longitude": 103.860738236129,
+        "Bearing": 184.3,
+        "LineStart": {
+            "Lat": 1.28544227423167,
+            "Lon": 103.860674738619
+        },
+        "LineEnd": {
+            "Lat": 1.28543270739366,
+            "Lon": 103.860801733639
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "89",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 89",
-        "Latitude": 1.359477455283,
-        "Longitude": 103.903258064222,
+        "Name": "Unlisted Gantry 89",
+        "Latitude": 1.359528781470455,
+        "Longitude": 103.903167229673,
+        "Bearing": 29.5,
+        "LineStart": {
+            "Lat": 1.359477455283,
+            "Lon": 103.903258064222
+        },
+        "LineEnd": {
+            "Lat": 1.35958010765791,
+            "Lon": 103.903076395124
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "809",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 809",
-        "Latitude": 1.35961079533657,
-        "Longitude": 103.903328081617,
+        "Name": "Unlisted Gantry 809",
+        "Latitude": 1.359559384186065,
+        "Longitude": 103.903416986938,
+        "Bearing": 210.0,
+        "LineStart": {
+            "Lat": 1.35961079533657,
+            "Lon": 103.903328081617
+        },
+        "LineEnd": {
+            "Lat": 1.35950797303556,
+            "Lon": 103.903505892259
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "64",
         "ZoneID": "CBD",
-        "Name": "Fullerton / Bayfront",
-        "Latitude": 1.28599606609399,
-        "Longitude": 103.853702420863,
+        "Name": "Southbound Fullerton Road",
+        "Latitude": 1.28595913432209,
+        "Longitude": 103.8537863702645,
+        "Bearing": 203.8,
+        "LineStart": {
+            "Lat": 1.28599606609399,
+            "Lon": 103.853702420863
+        },
+        "LineEnd": {
+            "Lat": 1.28592220255019,
+            "Lon": 103.853870319666
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "63",
         "ZoneID": "CBD",
-        "Name": "New Bridge / Eu Tong Sen",
-        "Latitude": 1.28599989135579,
-        "Longitude": 103.853501285402,
+        "Name": "Northbound Fullerton Road",
+        "Latitude": 1.28596157996833,
+        "Longitude": 103.853586929442,
+        "Bearing": 204.1,
+        "LineStart": {
+            "Lat": 1.28599989135579,
+            "Lon": 103.853501285402
+        },
+        "LineEnd": {
+            "Lat": 1.28592326858087,
+            "Lon": 103.853672573482
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "UNKNOWN",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry UNKNOWN",
-        "Latitude": 1.34654313617804,
-        "Longitude": 103.859254952288,
+        "Name": "Unlisted Gantry UNKNOWN",
+        "Latitude": 1.3465919374261799,
+        "Longitude": 103.8593868360525,
+        "Bearing": 159.7,
+        "LineStart": {
+            "Lat": 1.34654313617804,
+            "Lon": 103.859254952288
+        },
+        "LineEnd": {
+            "Lat": 1.34664073867432,
+            "Lon": 103.859518719817
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "92",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 92",
-        "Latitude": 1.27469221924205,
-        "Longitude": 103.865739932043,
-        "WeekdayRates": {}
+        "ZoneID": "MCE",
+        "Name": "MCE eastbound after entry from Maxwell Road",
+        "Latitude": 1.274653001037785,
+        "Longitude": 103.8657733076715,
+        "Bearing": 229.6,
+        "LineStart": {
+            "Lat": 1.27469221924205,
+            "Lon": 103.865739932043
+        },
+        "LineEnd": {
+            "Lat": 1.27461378283352,
+            "Lon": 103.8658066833
+        },
+        "WeekdayRates": {
+            "18:30-18:35": 0.5,
+            "18:35-18:55": 1.0,
+            "18:55-19:00": 0.5
+        }
     },
     {
         "GantryID": "OS053",
         "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry OS053",
-        "Latitude": 1.30884224208511,
-        "Longitude": 103.766370303957,
+        "Name": "Unlisted Gantry OS053",
+        "Latitude": 1.308824549747605,
+        "Longitude": 103.76641105715049,
+        "Bearing": 203.5,
+        "LineStart": {
+            "Lat": 1.30884224208511,
+            "Lon": 103.766370303957
+        },
+        "LineEnd": {
+            "Lat": 1.3088068574101,
+            "Lon": 103.766451810344
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "44",
         "ZoneID": "ART",
-        "Name": "Geylang Bahru",
-        "Latitude": 1.32117461966965,
-        "Longitude": 103.825313514544,
+        "Name": "Dunearn Road eastbound after Dunkirk Avenue",
+        "Latitude": 1.32113521149354,
+        "Longitude": 103.8253028416635,
+        "Bearing": 285.1,
+        "LineStart": {
+            "Lat": 1.32117461966965,
+            "Lon": 103.825313514544
+        },
+        "LineEnd": {
+            "Lat": 1.32109580331743,
+            "Lon": 103.825292168783
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "27",
         "ZoneID": "ORC",
         "Name": "Cairnhill Road",
-        "Latitude": 1.3057490403078,
-        "Longitude": 103.837620444176,
+        "Latitude": 1.3056978785381,
+        "Longitude": 103.8376474018475,
+        "Bearing": 242.2,
+        "LineStart": {
+            "Lat": 1.3057490403078,
+            "Lon": 103.837620444176
+        },
+        "LineEnd": {
+            "Lat": 1.3056467167684,
+            "Lon": 103.837674359519
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "24",
         "ZoneID": "SWC",
-        "Name": "Merchant Road / Clemenceau",
-        "Latitude": 1.29001338837673,
-        "Longitude": 103.842375080526,
+        "Name": "Merchant Road / Clemenceau Ave",
+        "Latitude": 1.29004842701061,
+        "Longitude": 103.8423969421645,
+        "Bearing": 122.0,
+        "LineStart": {
+            "Lat": 1.29001338837673,
+            "Lon": 103.842375080526
+        },
+        "LineEnd": {
+            "Lat": 1.29008346564449,
+            "Lon": 103.842418803803
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "5",
         "ZoneID": "SWC",
         "Name": "Lim Teck Kim Road",
-        "Latitude": 1.27341132475546,
-        "Longitude": 103.841870056019,
+        "Latitude": 1.27346744513464,
+        "Longitude": 103.8418669764725,
+        "Bearing": 86.9,
+        "LineStart": {
+            "Lat": 1.27341132475546,
+            "Lon": 103.841870056019
+        },
+        "LineEnd": {
+            "Lat": 1.27352356551382,
+            "Lon": 103.841863896926
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "28",
         "ZoneID": "SWC",
         "Name": "Central Boulevard",
-        "Latitude": 1.3042140083351,
-        "Longitude": 103.866310636112,
+        "Latitude": 1.3042565095982148,
+        "Longitude": 103.86636430414501,
+        "Bearing": 141.6,
+        "LineStart": {
+            "Lat": 1.3042140083351,
+            "Lon": 103.866310636112
+        },
+        "LineEnd": {
+            "Lat": 1.30429901086133,
+            "Lon": 103.866417972178
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "38",
         "ZoneID": "PIE",
-        "Name": "PIE (Mt Pleasant)",
-        "Latitude": 1.32765681932848,
-        "Longitude": 103.828335190029,
+        "Name": "Mount Pleasant slip road into the eastbound PIE",
+        "Latitude": 1.327605041705905,
+        "Longitude": 103.828317450863,
+        "Bearing": 288.9,
+        "LineStart": {
+            "Lat": 1.32765681932848,
+            "Lon": 103.828335190029
+        },
+        "LineEnd": {
+            "Lat": 1.32755326408333,
+            "Lon": 103.828299711697
+        },
         "WeekdayRates": {
-            "08:35-08:55": 2.0,
-            "08:55-09:00": 1.0
+            "07:30-07:35": 1.0,
+            "07:35-07:55": 2.0,
+            "07:55-08:00": 2.0,
+            "08:00-08:05": 2.0,
+            "08:05-08:25": 2.0,
+            "08:25-08:30": 1.5,
+            "08:30-08:35": 1.0,
+            "08:35-08:55": 1.0,
+            "08:55-09:00": 1.0,
+            "09:00-09:05": 1.0,
+            "09:05-09:25": 1.0,
+            "09:25-09:30": 0.5
         }
     },
     {
         "GantryID": "13",
         "ZoneID": "ORC",
         "Name": "Orchard Road",
-        "Latitude": 1.30472380609085,
-        "Longitude": 103.832197980059,
+        "Latitude": 1.3047951261234,
+        "Longitude": 103.832239611045,
+        "Bearing": 120.3,
+        "LineStart": {
+            "Lat": 1.30472380609085,
+            "Lon": 103.832197980059
+        },
+        "LineEnd": {
+            "Lat": 1.30486644615595,
+            "Lon": 103.832281242031
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "15",
         "ZoneID": "ORC",
         "Name": "Killiney Road",
-        "Latitude": 1.29955951701563,
-        "Longitude": 103.839776117398,
+        "Latitude": 1.29951352901979,
+        "Longitude": 103.83983073443,
+        "Bearing": 220.1,
+        "LineStart": {
+            "Lat": 1.29955951701563,
+            "Lon": 103.839776117398
+        },
+        "LineEnd": {
+            "Lat": 1.29946754102395,
+            "Lon": 103.839885351462
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "12",
-        "ZoneID": "PIE",
-        "Name": "PIE (Kallang Bahru)",
-        "Latitude": 1.29926873572166,
-        "Longitude": 103.841338914209,
-        "WeekdayRates": {
-            "08:35-08:55": 2.0,
-            "08:55-09:00": 1.0
-        }
+        "ZoneID": "ORC",
+        "Name": "Oxley Road",
+        "Latitude": 1.299254289709035,
+        "Longitude": 103.84138304888401,
+        "Bearing": 198.1,
+        "LineStart": {
+            "Lat": 1.29926873572166,
+            "Lon": 103.841338914209
+        },
+        "LineEnd": {
+            "Lat": 1.29923984369641,
+            "Lon": 103.841427183559
+        },
+        "WeekdayRates": {}
     },
     {
         "GantryID": "20",
         "ZoneID": "SWC",
         "Name": "Havelock Road / CTE Exit",
-        "Latitude": 1.28776021904015,
-        "Longitude": 103.842714797338,
+        "Latitude": 1.28780232443872,
+        "Longitude": 103.8427205746595,
+        "Bearing": 97.8,
+        "LineStart": {
+            "Lat": 1.28776021904015,
+            "Lon": 103.842714797338
+        },
+        "LineEnd": {
+            "Lat": 1.28784442983729,
+            "Lon": 103.842726351981
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "60",
         "ZoneID": "CBD",
-        "Name": "New Bridge / Eu Tong Sen",
-        "Latitude": 1.28945120248458,
-        "Longitude": 103.847524907054,
+        "Name": "Eu Tong Sen St at Central",
+        "Latitude": 1.28938974641223,
+        "Longitude": 103.8475978174935,
+        "Bearing": 220.1,
+        "LineStart": {
+            "Lat": 1.28945120248458,
+            "Lon": 103.847524907054
+        },
+        "LineEnd": {
+            "Lat": 1.28932829033988,
+            "Lon": 103.847670727933
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "14",
         "ZoneID": "ORC",
         "Name": "Orchard Turn",
-        "Latitude": 1.30357322272929,
-        "Longitude": 103.83258862896,
+        "Latitude": 1.30352569340042,
+        "Longitude": 103.83263980792199,
+        "Bearing": 222.9,
+        "LineStart": {
+            "Lat": 1.30357322272929,
+            "Lon": 103.83258862896
+        },
+        "LineEnd": {
+            "Lat": 1.30347816407155,
+            "Lon": 103.832690986884
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "19",
         "ZoneID": "SWC",
-        "Name": "Havelock Road / Clemenceau",
-        "Latitude": 1.28851018275862,
-        "Longitude": 103.841634994657,
+        "Name": "Havelock Road / Clemenceau Ave",
+        "Latitude": 1.28844088639686,
+        "Longitude": 103.8415906348155,
+        "Bearing": 302.6,
+        "LineStart": {
+            "Lat": 1.28851018275862,
+            "Lon": 103.841634994657
+        },
+        "LineEnd": {
+            "Lat": 1.2883715900351,
+            "Lon": 103.841546274974
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "21",
         "ZoneID": "ORC",
         "Name": "Buyong Road",
-        "Latitude": 1.30058418308165,
-        "Longitude": 103.843141064884,
+        "Latitude": 1.30056833614329,
+        "Longitude": 103.84319356591999,
+        "Bearing": 196.8,
+        "LineStart": {
+            "Lat": 1.30058418308165,
+            "Lon": 103.843141064884
+        },
+        "LineEnd": {
+            "Lat": 1.30055248920493,
+            "Lon": 103.843246066956
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "26",
         "ZoneID": "ORC",
         "Name": "Clemenceau Ave",
-        "Latitude": 1.29770638866072,
-        "Longitude": 103.843772659367,
+        "Latitude": 1.29770343525795,
+        "Longitude": 103.84371145771351,
+        "Bearing": 357.2,
+        "LineStart": {
+            "Lat": 1.29770638866072,
+            "Lon": 103.843772659367
+        },
+        "LineEnd": {
+            "Lat": 1.29770048185518,
+            "Lon": 103.84365025606
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "39",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 39",
-        "Latitude": 1.33630636947089,
-        "Longitude": 103.837147394068,
+        "ZoneID": "ART",
+        "Name": "Thomson Road southbound after Toa Payoh Rise",
+        "Latitude": 1.336294095794445,
+        "Longitude": 103.837206106279,
+        "Bearing": 191.8,
+        "LineStart": {
+            "Lat": 1.33630636947089,
+            "Lon": 103.837147394068
+        },
+        "LineEnd": {
+            "Lat": 1.336281822118,
+            "Lon": 103.83726481849
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "22",
         "ZoneID": "ORC",
         "Name": "Kramat Road",
-        "Latitude": 1.30166655275654,
-        "Longitude": 103.842001797717,
+        "Latitude": 1.3016215077529552,
+        "Longitude": 103.84198743610949,
+        "Bearing": 287.7,
+        "LineStart": {
+            "Lat": 1.30166655275654,
+            "Lon": 103.842001797717
+        },
+        "LineEnd": {
+            "Lat": 1.30157646274937,
+            "Lon": 103.841973074502
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "34",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 34",
-        "Latitude": 1.31839072441468,
-        "Longitude": 103.851631593353,
-        "WeekdayRates": {}
+        "ZoneID": "CTE",
+        "Name": "CTE after Balestier slip road",
+        "Latitude": 1.31835646113008,
+        "Longitude": 103.85164163441601,
+        "Bearing": 253.7,
+        "LineStart": {
+            "Lat": 1.31839072441468,
+            "Lon": 103.851631593353
+        },
+        "LineEnd": {
+            "Lat": 1.31832219784548,
+            "Lon": 103.851651675479
+        },
+        "WeekdayRates": {
+            "07:30-07:35": 1.0,
+            "07:35-07:55": 2.0,
+            "07:55-08:00": 2.0,
+            "08:00-08:05": 3.0,
+            "08:05-08:25": 4.0,
+            "08:25-08:30": 4.0,
+            "08:30-08:35": 4.5,
+            "08:35-08:55": 5.0,
+            "08:55-09:00": 4.5,
+            "09:00-09:05": 4.0,
+            "09:05-09:25": 4.0,
+            "09:25-09:30": 3.5,
+            "09:30-09:35": 3.0,
+            "09:35-09:55": 3.0,
+            "09:55-10:00": 1.5
+        }
     },
     {
         "GantryID": "25",
         "ZoneID": "SWC",
         "Name": "Merchant Road / CTE Exit",
-        "Latitude": 1.28867461466568,
-        "Longitude": 103.844397338497,
+        "Latitude": 1.2886991034256101,
+        "Longitude": 103.84441654761301,
+        "Bearing": 128.1,
+        "LineStart": {
+            "Lat": 1.28867461466568,
+            "Lon": 103.844397338497
+        },
+        "LineEnd": {
+            "Lat": 1.28872359218554,
+            "Lon": 103.844435756729
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "43",
         "ZoneID": "ART",
-        "Name": "Geylang Bahru",
-        "Latitude": 1.32164610062957,
-        "Longitude": 103.823659929827,
+        "Name": "Dunearn Road eastbound after Dunkirk Avenue",
+        "Latitude": 1.3215769293026902,
+        "Longitude": 103.82363612294151,
+        "Bearing": 289.0,
+        "LineStart": {
+            "Lat": 1.32164610062957,
+            "Lon": 103.823659929827
+        },
+        "LineEnd": {
+            "Lat": 1.32150775797581,
+            "Lon": 103.823612316056
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "17",
         "ZoneID": "BMC",
         "Name": "Temasek Boulevard",
-        "Latitude": 1.29603139372878,
-        "Longitude": 103.859639530107,
+        "Latitude": 1.29599773458414,
+        "Longitude": 103.85968708427549,
+        "Bearing": 215.3,
+        "LineStart": {
+            "Lat": 1.29603139372878,
+            "Lon": 103.859639530107
+        },
+        "LineEnd": {
+            "Lat": 1.2959640754395,
+            "Lon": 103.859734638444
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "32",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted/Test Gantry 32",
-        "Latitude": 1.32639219911417,
-        "Longitude": 103.870574961709,
-        "WeekdayRates": {}
+        "ZoneID": "PIE",
+        "Name": "PIE after Kallang Bahru exit",
+        "Latitude": 1.3263210040684852,
+        "Longitude": 103.87050593416049,
+        "Bearing": 314.1,
+        "LineStart": {
+            "Lat": 1.32639219911417,
+            "Lon": 103.870574961709
+        },
+        "LineEnd": {
+            "Lat": 1.3262498090228,
+            "Lon": 103.870436906612
+        },
+        "WeekdayRates": {
+            "07:30-07:35": 0.5,
+            "07:35-07:55": 1.0,
+            "07:55-08:00": 1.0,
+            "08:00-08:05": 1.0,
+            "08:05-08:25": 1.0,
+            "08:25-08:30": 1.0,
+            "08:30-08:35": 2.0,
+            "08:35-08:55": 3.0,
+            "08:55-09:00": 2.5,
+            "09:00-09:05": 2.0,
+            "09:05-09:25": 2.0,
+            "09:25-09:30": 1.5,
+            "09:30-09:35": 1.0,
+            "09:35-09:55": 1.0,
+            "09:55-10:00": 0.5
+        }
     },
     {
         "GantryID": "45",
         "ZoneID": "PIE",
-        "Name": "PIE (Kallang Bahru)",
-        "Latitude": 1.32624805189136,
-        "Longitude": 103.870433682573,
+        "Name": "PIE Slip Road into Bendeemer Rd",
+        "Latitude": 1.3262218356852649,
+        "Longitude": 103.8704062066425,
+        "Bearing": 316.3,
+        "LineStart": {
+            "Lat": 1.32624805189136,
+            "Lon": 103.870433682573
+        },
+        "LineEnd": {
+            "Lat": 1.32619561947917,
+            "Lon": 103.870378730712
+        },
         "WeekdayRates": {
-            "08:35-08:55": 2.0,
-            "08:55-09:00": 1.0
+            "07:30-07:35": 0.5,
+            "07:35-07:55": 1.0,
+            "07:55-08:00": 1.0,
+            "08:00-08:05": 1.0,
+            "08:05-08:25": 1.0,
+            "08:25-08:30": 1.0,
+            "08:30-08:35": 2.0,
+            "08:35-08:55": 3.0,
+            "08:55-09:00": 2.5,
+            "09:00-09:05": 2.0,
+            "09:05-09:25": 2.0,
+            "09:25-09:30": 1.5,
+            "09:30-09:35": 1.0,
+            "09:35-09:55": 1.0,
+            "09:55-10:00": 0.5
         }
     },
     {
         "GantryID": "37",
         "ZoneID": "PIE",
-        "Name": "PIE (Adam Rd)",
-        "Latitude": 1.33077958313704,
-        "Longitude": 103.819933934848,
+        "Name": "PIE eastbound after Adam Road",
+        "Latitude": 1.33068386365697,
+        "Longitude": 103.8199012553345,
+        "Bearing": 288.8,
+        "LineStart": {
+            "Lat": 1.33077958313704,
+            "Lon": 103.819933934848
+        },
+        "LineEnd": {
+            "Lat": 1.3305881441769,
+            "Lon": 103.819868575821
+        },
         "WeekdayRates": {
-            "08:35-08:55": 2.0,
-            "08:55-09:00": 1.0
+            "07:30-07:35": 1.0,
+            "07:35-07:55": 2.0,
+            "07:55-08:00": 2.0,
+            "08:00-08:05": 2.0,
+            "08:05-08:25": 2.0,
+            "08:25-08:30": 1.5,
+            "08:30-08:35": 1.0,
+            "08:35-08:55": 1.0,
+            "08:55-09:00": 1.0,
+            "09:00-09:05": 1.0,
+            "09:05-09:25": 1.0,
+            "09:25-09:30": 0.5
         }
     },
     {
         "GantryID": "2",
         "ZoneID": "BMC",
         "Name": "Nicoll Highway",
-        "Latitude": 1.29969611270877,
-        "Longitude": 103.861891883736,
+        "Latitude": 1.29963288208825,
+        "Longitude": 103.861945090353,
+        "Bearing": 229.9,
+        "LineStart": {
+            "Lat": 1.29969611270877,
+            "Lon": 103.861891883736
+        },
+        "LineEnd": {
+            "Lat": 1.29956965146773,
+            "Lon": 103.86199829697
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "18",
         "ZoneID": "BMC",
         "Name": "Republic Boulevard",
-        "Latitude": 1.2962061358569,
-        "Longitude": 103.862365715794,
+        "Latitude": 1.29621663687633,
+        "Longitude": 103.862405846217,
+        "Bearing": 165.3,
+        "LineStart": {
+            "Lat": 1.2962061358569,
+            "Lon": 103.862365715794
+        },
+        "LineEnd": {
+            "Lat": 1.29622713789576,
+            "Lon": 103.86244597664
+        },
         "WeekdayRates": {}
     },
     {
         "GantryID": "59",
         "ZoneID": "ART",
-        "Name": "Upper Boon Keng Road",
-        "Latitude": 1.31372444199686,
-        "Longitude": 103.870594251103,
-        "WeekdayRates": {
-            "08:35-09:00": 1.0
-        }
+        "Name": "Upper Boon Keng Road near Lorong 1 Geylang",
+        "Latitude": 1.31366489294666,
+        "Longitude": 103.8706118739245,
+        "Bearing": 253.5,
+        "LineStart": {
+            "Lat": 1.31372444199686,
+            "Lon": 103.870594251103
+        },
+        "LineEnd": {
+            "Lat": 1.31360534389646,
+            "Lon": 103.870629496746
+        },
+        "WeekdayRates": {}
     }
 ]
