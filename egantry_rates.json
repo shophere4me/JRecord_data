@@ -1,107 +1,5 @@
 [
     {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.30707725514335,
-        "Longitude": 103.8744466425765,
-        "Bearing": 261.6,
-        "LineStart": {
-            "Lat": 1.30712028129496,
-            "Lon": 103.874440249663
-        },
-        "LineEnd": {
-            "Lat": 1.30703422899174,
-            "Lon": 103.87445303549
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.310007289314865,
-        "Longitude": 103.8758006911865,
-        "Bearing": 345.7,
-        "LineStart": {
-            "Lat": 1.31001828746057,
-            "Lon": 103.875843794285
-        },
-        "LineEnd": {
-            "Lat": 1.30999629116916,
-            "Lon": 103.875757588088
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.309910538190885,
-        "Longitude": 103.87582431868199,
-        "Bearing": 346.3,
-        "LineStart": {
-            "Lat": 1.30992130479885,
-            "Lon": 103.875868597975
-        },
-        "LineEnd": {
-            "Lat": 1.30989977158292,
-            "Lon": 103.875780039389
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNK",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNK",
-        "Latitude": 1.3027181868619149,
-        "Longitude": 103.853494652324,
-        "Bearing": 219.9,
-        "LineStart": {
-            "Lat": 1.30277450852639,
-            "Lon": 103.85342729148
-        },
-        "LineEnd": {
-            "Lat": 1.30266186519744,
-            "Lon": 103.853562013168
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNK",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNK",
-        "Latitude": 1.3026371884250398,
-        "Longitude": 103.85342775089501,
-        "Bearing": 220.0,
-        "LineStart": {
-            "Lat": 1.30269393378567,
-            "Lon": 103.853360008622
-        },
-        "LineEnd": {
-            "Lat": 1.30258044306441,
-            "Lon": 103.853495493168
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.332742987581985,
-        "Longitude": 103.86218049551951,
-        "Bearing": 175.6,
-        "LineStart": {
-            "Lat": 1.33273527588966,
-            "Lon": 103.862080385889
-        },
-        "LineEnd": {
-            "Lat": 1.33275069927431,
-            "Lon": 103.86228060515
-        },
-        "WeekdayRates": {}
-    },
-    {
         "GantryID": "65",
         "ZoneID": "PIE",
         "Name": "PIE westbound before Eunos Link",
@@ -130,23 +28,6 @@
             "09:05-09:25": 1.0,
             "09:25-09:30": 0.5
         }
-    },
-    {
-        "GantryID": "62",
-        "ZoneID": "CBD",
-        "Name": "South Bridge Road",
-        "Latitude": 1.28853998764416,
-        "Longitude": 103.84896223416851,
-        "Bearing": 214.2,
-        "LineStart": {
-            "Lat": 1.28858667138236,
-            "Lon": 103.848893460129
-        },
-        "LineEnd": {
-            "Lat": 1.28849330390596,
-            "Lon": 103.849031008208
-        },
-        "WeekdayRates": {}
     },
     {
         "GantryID": "56",
@@ -234,23 +115,6 @@
         "WeekdayRates": {}
     },
     {
-        "GantryID": "UNK",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNK",
-        "Latitude": 1.28433947261535,
-        "Longitude": 103.8615182541225,
-        "Bearing": 7.0,
-        "LineStart": {
-            "Lat": 1.28432840128155,
-            "Lon": 103.861608745904
-        },
-        "LineEnd": {
-            "Lat": 1.28435054394915,
-            "Lon": 103.861427762341
-        },
-        "WeekdayRates": {}
-    },
-    {
         "GantryID": "28",
         "ZoneID": "SWC",
         "Name": "Central Boulevard",
@@ -264,23 +128,6 @@
         "LineEnd": {
             "Lat": 1.27433330611024,
             "Lon": 103.86050473838
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.3100608710201551,
-        "Longitude": 103.871000602706,
-        "Bearing": 91.8,
-        "LineStart": {
-            "Lat": 1.30997487458475,
-            "Lon": 103.870997940371
-        },
-        "LineEnd": {
-            "Lat": 1.31014686745556,
-            "Lon": 103.871003265041
         },
         "WeekdayRates": {}
     },
@@ -302,380 +149,6 @@
         "WeekdayRates": {}
     },
     {
-        "GantryID": "86",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 86",
-        "Latitude": 1.3351776468455,
-        "Longitude": 103.88822981070851,
-        "Bearing": 336.1,
-        "LineStart": {
-            "Lat": 1.33519325628298,
-            "Lon": 103.888265047526
-        },
-        "LineEnd": {
-            "Lat": 1.33516203740802,
-            "Lon": 103.888194573891
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "808",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 808",
-        "Latitude": 1.3446821498096,
-        "Longitude": 103.89895604153449,
-        "Bearing": 174.9,
-        "LineStart": {
-            "Lat": 1.3446785022649,
-            "Lon": 103.898914957454
-        },
-        "LineEnd": {
-            "Lat": 1.3446857973543,
-            "Lon": 103.898997125615
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "88",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 88",
-        "Latitude": 1.34232676636418,
-        "Longitude": 103.89899897926,
-        "Bearing": 204.1,
-        "LineStart": {
-            "Lat": 1.3423471840646,
-            "Lon": 103.898953338367
-        },
-        "LineEnd": {
-            "Lat": 1.34230634866376,
-            "Lon": 103.899044620153
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "87",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 87",
-        "Latitude": 1.339163512406625,
-        "Longitude": 103.89711667058,
-        "Bearing": 218.7,
-        "LineStart": {
-            "Lat": 1.33919542890492,
-            "Lon": 103.897076869307
-        },
-        "LineEnd": {
-            "Lat": 1.33913159590833,
-            "Lon": 103.897156471853
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "807",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 807",
-        "Latitude": 1.33426734266181,
-        "Longitude": 103.8917690374555,
-        "Bearing": 241.6,
-        "LineStart": {
-            "Lat": 1.33430275666135,
-            "Lon": 103.891749846016
-        },
-        "LineEnd": {
-            "Lat": 1.33423192866227,
-            "Lon": 103.891788228895
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "85",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 85",
-        "Latitude": 1.31986477497526,
-        "Longitude": 103.8762440370195,
-        "Bearing": 291.2,
-        "LineStart": {
-            "Lat": 1.31990712743113,
-            "Lon": 103.876260492476
-        },
-        "LineEnd": {
-            "Lat": 1.31982242251939,
-            "Lon": 103.876227581563
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "804",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 804",
-        "Latitude": 1.31827277214617,
-        "Longitude": 103.8748909213715,
-        "Bearing": 196.9,
-        "LineStart": {
-            "Lat": 1.3182890312568,
-            "Lon": 103.874837388651
-        },
-        "LineEnd": {
-            "Lat": 1.31825651303554,
-            "Lon": 103.874944454092
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "82",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 82",
-        "Latitude": 1.31704829416174,
-        "Longitude": 103.874523410408,
-        "Bearing": 7.5,
-        "LineStart": {
-            "Lat": 1.31704175251856,
-            "Lon": 103.874573158119
-        },
-        "LineEnd": {
-            "Lat": 1.31705483580492,
-            "Lon": 103.874473662697
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "83",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 83",
-        "Latitude": 1.31639070822322,
-        "Longitude": 103.8748179903305,
-        "Bearing": 189.5,
-        "LineStart": {
-            "Lat": 1.31639912598318,
-            "Lon": 103.87476781136
-        },
-        "LineEnd": {
-            "Lat": 1.31638229046326,
-            "Lon": 103.874868169301
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "805",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 805",
-        "Latitude": 1.3157013935350501,
-        "Longitude": 103.8749508943075,
-        "Bearing": 183.8,
-        "LineStart": {
-            "Lat": 1.31570445783604,
-            "Lon": 103.874905236768
-        },
-        "LineEnd": {
-            "Lat": 1.31569832923406,
-            "Lon": 103.874996551847
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNK",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNK",
-        "Latitude": 1.29545144182042,
-        "Longitude": 103.87215570250399,
-        "Bearing": 269.4,
-        "LineStart": {
-            "Lat": 1.29557775897172,
-            "Lon": 103.87215427125
-        },
-        "LineEnd": {
-            "Lat": 1.29532512466912,
-            "Lon": 103.872157133758
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "802",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 802",
-        "Latitude": 1.29470710969586,
-        "Longitude": 103.8744233942785,
-        "Bearing": 212.8,
-        "LineStart": {
-            "Lat": 1.29476426291649,
-            "Lon": 103.874334664086
-        },
-        "LineEnd": {
-            "Lat": 1.29464995647523,
-            "Lon": 103.874512124471
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.33315443563729,
-        "Longitude": 103.86185366331051,
-        "Bearing": 25.6,
-        "LineStart": {
-            "Lat": 1.33312010738929,
-            "Lon": 103.861925251832
-        },
-        "LineEnd": {
-            "Lat": 1.33318876388529,
-            "Lon": 103.861782074789
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.33337239166121,
-        "Longitude": 103.8624190256585,
-        "Bearing": 177.9,
-        "LineStart": {
-            "Lat": 1.33336650840136,
-            "Lon": 103.862259906897
-        },
-        "LineEnd": {
-            "Lat": 1.33337827492106,
-            "Lon": 103.86257814442
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "806",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 806",
-        "Latitude": 1.32248906031654,
-        "Longitude": 103.8740119762715,
-        "Bearing": 317.9,
-        "LineStart": {
-            "Lat": 1.32251636212769,
-            "Lon": 103.874042185612
-        },
-        "LineEnd": {
-            "Lat": 1.32246175850539,
-            "Lon": 103.873981766931
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry ",
-        "Latitude": 1.39015243724374,
-        "Longitude": 103.861230324335,
-        "Bearing": 291.1,
-        "LineStart": {
-            "Lat": 1.39015508973126,
-            "Lon": 103.861231347397
-        },
-        "LineEnd": {
-            "Lat": 1.39014978475622,
-            "Lon": 103.861229301273
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "69",
-        "ZoneID": "CBD",
-        "Name": "Southbound Bayfront Ave",
-        "Latitude": 1.285429570613555,
-        "Longitude": 103.86088420248501,
-        "Bearing": 182.7,
-        "LineStart": {
-            "Lat": 1.2854331667432,
-            "Lon": 103.860807995567
-        },
-        "LineEnd": {
-            "Lat": 1.28542597448391,
-            "Lon": 103.860960409403
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.2929203501755548,
-        "Longitude": 103.84401881392051,
-        "Bearing": 306.2,
-        "LineStart": {
-            "Lat": 1.29295862775069,
-            "Lon": 103.844046864331
-        },
-        "LineEnd": {
-            "Lat": 1.29288207260042,
-            "Lon": 103.84399076351
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.2929934467188549,
-        "Longitude": 103.84393562940551,
-        "Bearing": 125.9,
-        "LineStart": {
-            "Lat": 1.29295237104489,
-            "Lon": 103.843905939593
-        },
-        "LineEnd": {
-            "Lat": 1.29303452239282,
-            "Lon": 103.843965319218
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.29295606103005,
-        "Longitude": 103.8439714563865,
-        "Bearing": 126.2,
-        "LineStart": {
-            "Lat": 1.2929177834544,
-            "Lon": 103.843943405976
-        },
-        "LineEnd": {
-            "Lat": 1.2929943386057,
-            "Lon": 103.843999506797
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.353137079032865,
-        "Longitude": 103.7696821702205,
-        "Bearing": 165.7,
-        "LineStart": {
-            "Lat": 1.35312051388926,
-            "Lon": 103.769617039616
-        },
-        "LineEnd": {
-            "Lat": 1.35315364417647,
-            "Lon": 103.769747300825
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.35304512171442,
-        "Longitude": 103.7697071392065,
-        "Bearing": 166.2,
-        "LineStart": {
-            "Lat": 1.35302785238525,
-            "Lon": 103.769636738547
-        },
-        "LineEnd": {
-            "Lat": 1.35306239104359,
-            "Lon": 103.769777539866
-        },
-        "WeekdayRates": {}
-    },
-    {
         "GantryID": "56",
         "ZoneID": "ART",
         "Name": "Lorong 6 Toa Payoh from Braddell Road",
@@ -693,43 +166,9 @@
         "WeekdayRates": {}
     },
     {
-        "GantryID": "49",
-        "ZoneID": "CBD",
-        "Name": "Fort Canning Tunnel Gantry",
-        "Latitude": 1.2977326599671248,
-        "Longitude": 103.8463928197355,
-        "Bearing": 127.8,
-        "LineStart": {
-            "Lat": 1.2976845253451,
-            "Lon": 103.84635544005
-        },
-        "LineEnd": {
-            "Lat": 1.29778079458915,
-            "Lon": 103.846430199421
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "801",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 801",
-        "Latitude": 1.29565951403551,
-        "Longitude": 103.874124474613,
-        "Bearing": 266.1,
-        "LineStart": {
-            "Lat": 1.29570838233568,
-            "Lon": 103.874121113495
-        },
-        "LineEnd": {
-            "Lat": 1.29561064573534,
-            "Lon": 103.874127835731
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "OS041",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry OS041",
+        "GantryID": "41",
+        "ZoneID": "AYE",
+        "Name": "Tuasbound AYE - After North Buona Vista",
         "Latitude": 1.301111373238985,
         "Longitude": 103.776652623502,
         "Bearing": 123.8,
@@ -741,7 +180,22 @@
             "Lat": 1.30118868851947,
             "Lon": 103.776704472763
         },
-        "WeekdayRates": {}
+        "WeekdayRates": {
+            "17:05-17:25": 1.0,
+            "17:25-17:30": 1.0,
+            "17:30-17:35": 2.0,
+            "17:35-17:55": 3.0,
+            "17:55-18:00": 2.5,
+            "18:00-18:05": 2.0,
+            "18:05-18:25": 2.0,
+            "18:25-18:30": 2.0,
+            "18:30-18:35": 2.0,
+            "18:35-18:55": 2.0,
+            "18:55-19:00": 1.5,
+            "19:00-19:05": 1.0,
+            "19:05-19:25": 1.0,
+            "19:25-19:30": 0.5
+        }
     },
     {
         "GantryID": "29",
@@ -761,9 +215,9 @@
         "WeekdayRates": {}
     },
     {
-        "GantryID": "OS074",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry OS074",
+        "GantryID": "74",
+        "ZoneID": "AYE",
+        "Name": "AYE Clementi Ave 2 into AYE",
         "Latitude": 1.316373473458905,
         "Longitude": 103.7587141953375,
         "Bearing": 318.6,
@@ -775,7 +229,29 @@
             "Lat": 1.31631520420406,
             "Lon": 103.758648033683
         },
-        "WeekdayRates": {}
+        "WeekdayRates": {
+            "07:30-07:35": 2.0,
+            "07:35-07:55": 4.0,
+            "07:55-08:00": 3.0,
+            "08:00-08:05": 2.0,
+            "08:05-08:25": 2.0,
+            "08:25-08:30": 2.0,
+            "08:30-08:35": 2.5,
+            "08:35-08:55": 3.0,
+            "08:55-09:00": 2.5,
+            "09:00-09:05": 2.0,
+            "09:05-09:25": 2.0,
+            "09:25-09:30": 1.5,
+            "09:30-09:35": 1.0,
+            "09:35-09:55": 1.0,
+            "09:55-10:00": 0.5,
+            "17:30-17:35": 1.5,
+            "17:35-17:55": 3.0,
+            "17:55-18:00": 2.0,
+            "18:00-18:05": 1.0,
+            "18:05-18:25": 1.0,
+            "18:25-18:30": 0.5
+        }
     },
     {
         "GantryID": "91",
@@ -791,142 +267,6 @@
         "LineEnd": {
             "Lat": 1.27077094603246,
             "Lon": 103.856722648109
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNK",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNK",
-        "Latitude": 1.295356629772215,
-        "Longitude": 103.87676805778949,
-        "Bearing": 268.0,
-        "LineStart": {
-            "Lat": 1.29545389424195,
-            "Lon": 103.876764595562
-        },
-        "LineEnd": {
-            "Lat": 1.29525936530248,
-            "Lon": 103.876771520017
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "48",
-        "ZoneID": "CBD",
-        "Name": "Handy Road Gantry",
-        "Latitude": 1.2987374565247398,
-        "Longitude": 103.8480646397905,
-        "Bearing": 267.2,
-        "LineStart": {
-            "Lat": 1.29882875353234,
-            "Lon": 103.848060151191
-        },
-        "LineEnd": {
-            "Lat": 1.29864615951714,
-            "Lon": 103.84806912839
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.326088727416385,
-        "Longitude": 103.86052906163201,
-        "Bearing": 226.7,
-        "LineStart": {
-            "Lat": 1.32616379226269,
-            "Lon": 103.860458223581
-        },
-        "LineEnd": {
-            "Lat": 1.32601366257008,
-            "Lon": 103.860599899683
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.332742987581985,
-        "Longitude": 103.86218049551951,
-        "Bearing": 175.6,
-        "LineStart": {
-            "Lat": 1.33273527588966,
-            "Lon": 103.862080385889
-        },
-        "LineEnd": {
-            "Lat": 1.33275069927431,
-            "Lon": 103.86228060515
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.33315443563729,
-        "Longitude": 103.86185366331051,
-        "Bearing": 25.6,
-        "LineStart": {
-            "Lat": 1.33312010738929,
-            "Lon": 103.861925251832
-        },
-        "LineEnd": {
-            "Lat": 1.33318876388529,
-            "Lon": 103.861782074789
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.33337239166121,
-        "Longitude": 103.8624190256585,
-        "Bearing": 177.9,
-        "LineStart": {
-            "Lat": 1.33336650840136,
-            "Lon": 103.862259906897
-        },
-        "LineEnd": {
-            "Lat": 1.33337827492106,
-            "Lon": 103.86257814442
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "47",
-        "ZoneID": "CBD",
-        "Name": "YMCA Gantry",
-        "Latitude": 1.2980250548867551,
-        "Longitude": 103.847993343368,
-        "Bearing": 129.2,
-        "LineStart": {
-            "Lat": 1.29795807342786,
-            "Lon": 103.84793864949
-        },
-        "LineEnd": {
-            "Lat": 1.29809203634565,
-            "Lon": 103.848048037246
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNK",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNK",
-        "Latitude": 1.295356629772215,
-        "Longitude": 103.87676805778949,
-        "Bearing": 268.0,
-        "LineStart": {
-            "Lat": 1.29545389424195,
-            "Lon": 103.876764595562
-        },
-        "LineEnd": {
-            "Lat": 1.29525936530248,
-            "Lon": 103.876771520017
         },
         "WeekdayRates": {}
     },
@@ -950,23 +290,6 @@
             "18:35-18:55": 1.0,
             "18:55-19:00": 0.5
         }
-    },
-    {
-        "GantryID": "81",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 81",
-        "Latitude": 1.2958709811485698,
-        "Longitude": 103.880128932892,
-        "Bearing": 88.3,
-        "LineStart": {
-            "Lat": 1.29582618794866,
-            "Lon": 103.880130266407
-        },
-        "LineEnd": {
-            "Lat": 1.29591577434848,
-            "Lon": 103.880127599377
-        },
-        "WeekdayRates": {}
     },
     {
         "GantryID": "90",
@@ -1020,43 +343,9 @@
         "WeekdayRates": {}
     },
     {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.3535524636287501,
-        "Longitude": 103.7877785704735,
-        "Bearing": 302.7,
-        "LineStart": {
-            "Lat": 1.3536245604101,
-            "Lon": 103.787824782277
-        },
-        "LineEnd": {
-            "Lat": 1.3534803668474,
-            "Lon": 103.78773235867
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.3465919374261799,
-        "Longitude": 103.8593868360525,
-        "Bearing": 159.7,
-        "LineStart": {
-            "Lat": 1.34654313617804,
-            "Lon": 103.859254952288
-        },
-        "LineEnd": {
-            "Lat": 1.34664073867432,
-            "Lon": 103.859518719817
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "OS052",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry OS052",
+        "GantryID": "52",
+        "ZoneID": "AYE",
+        "Name": "AYE after Jurong Town Hall",
         "Latitude": 1.315162784127395,
         "Longitude": 103.7608585234795,
         "Bearing": 9.5,
@@ -1068,7 +357,29 @@
             "Lat": 1.31516959325389,
             "Lon": 103.760817923214
         },
-        "WeekdayRates": {}
+        "WeekdayRates": {
+            "07:30-07:35": 2.0,
+            "07:35-07:55": 4.0,
+            "07:55-08:00": 3.0,
+            "08:00-08:05": 2.0,
+            "08:05-08:25": 2.0,
+            "08:25-08:30": 2.0,
+            "08:30-08:35": 2.5,
+            "08:35-08:55": 3.0,
+            "08:55-09:00": 2.5,
+            "09:00-09:05": 2.0,
+            "09:05-09:25": 2.0,
+            "09:25-09:30": 1.5,
+            "09:30-09:35": 1.0,
+            "09:35-09:55": 1.0,
+            "09:55-10:00": 0.5,
+            "17:30-17:35": 1.5,
+            "17:35-17:55": 3.0,
+            "17:55-18:00": 2.0,
+            "18:00-18:05": 1.0,
+            "18:05-18:25": 1.0,
+            "18:25-18:30": 0.5
+        }
     },
     {
         "GantryID": "3",
@@ -1090,7 +401,7 @@
     {
         "GantryID": "36",
         "ZoneID": "AYE",
-        "Name": "AYE between Portsdown Road and Alexandra Road Citybound",
+        "Name": "AYE between Portsdown and Alexandra",
         "Latitude": 1.2867433824907,
         "Longitude": 103.7968017433275,
         "Bearing": 299.4,
@@ -1215,23 +526,6 @@
         }
     },
     {
-        "GantryID": "80",
-        "ZoneID": "KPE",
-        "Name": "KPE slip road into citybound ECP",
-        "Latitude": 1.2938771810989298,
-        "Longitude": 103.87538192551901,
-        "Bearing": 249.6,
-        "LineStart": {
-            "Lat": 1.29392762460873,
-            "Lon": 103.87536314591
-        },
-        "LineEnd": {
-            "Lat": 1.29382673758913,
-            "Lon": 103.875400705128
-        },
-        "WeekdayRates": {}
-    },
-    {
         "GantryID": "4",
         "ZoneID": "ORC",
         "Name": "Orchard Link",
@@ -1245,125 +539,6 @@
         "LineEnd": {
             "Lat": 1.30060870999384,
             "Lon": 103.83499464552
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "61",
-        "ZoneID": "CBD",
-        "Name": "New Bridge Road",
-        "Latitude": 1.289260057132235,
-        "Longitude": 103.8477121520965,
-        "Bearing": 220.7,
-        "LineStart": {
-            "Lat": 1.28932445783077,
-            "Lon": 103.847637314758
-        },
-        "LineEnd": {
-            "Lat": 1.2891956564337,
-            "Lon": 103.847786989435
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "66",
-        "ZoneID": "CBD",
-        "Name": "Northbound Bayfront Ave",
-        "Latitude": 1.2854374908126651,
-        "Longitude": 103.860738236129,
-        "Bearing": 184.3,
-        "LineStart": {
-            "Lat": 1.28544227423167,
-            "Lon": 103.860674738619
-        },
-        "LineEnd": {
-            "Lat": 1.28543270739366,
-            "Lon": 103.860801733639
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "89",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 89",
-        "Latitude": 1.359528781470455,
-        "Longitude": 103.903167229673,
-        "Bearing": 29.5,
-        "LineStart": {
-            "Lat": 1.359477455283,
-            "Lon": 103.903258064222
-        },
-        "LineEnd": {
-            "Lat": 1.35958010765791,
-            "Lon": 103.903076395124
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "809",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry 809",
-        "Latitude": 1.359559384186065,
-        "Longitude": 103.903416986938,
-        "Bearing": 210.0,
-        "LineStart": {
-            "Lat": 1.35961079533657,
-            "Lon": 103.903328081617
-        },
-        "LineEnd": {
-            "Lat": 1.35950797303556,
-            "Lon": 103.903505892259
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "64",
-        "ZoneID": "CBD",
-        "Name": "Southbound Fullerton Road",
-        "Latitude": 1.28595913432209,
-        "Longitude": 103.8537863702645,
-        "Bearing": 203.8,
-        "LineStart": {
-            "Lat": 1.28599606609399,
-            "Lon": 103.853702420863
-        },
-        "LineEnd": {
-            "Lat": 1.28592220255019,
-            "Lon": 103.853870319666
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "63",
-        "ZoneID": "CBD",
-        "Name": "Northbound Fullerton Road",
-        "Latitude": 1.28596157996833,
-        "Longitude": 103.853586929442,
-        "Bearing": 204.1,
-        "LineStart": {
-            "Lat": 1.28599989135579,
-            "Lon": 103.853501285402
-        },
-        "LineEnd": {
-            "Lat": 1.28592326858087,
-            "Lon": 103.853672573482
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "UNKNOWN",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry UNKNOWN",
-        "Latitude": 1.3465919374261799,
-        "Longitude": 103.8593868360525,
-        "Bearing": 159.7,
-        "LineStart": {
-            "Lat": 1.34654313617804,
-            "Lon": 103.859254952288
-        },
-        "LineEnd": {
-            "Lat": 1.34664073867432,
-            "Lon": 103.859518719817
         },
         "WeekdayRates": {}
     },
@@ -1389,9 +564,9 @@
         }
     },
     {
-        "GantryID": "OS053",
-        "ZoneID": "No Charge",
-        "Name": "Unlisted Gantry OS053",
+        "GantryID": "53",
+        "ZoneID": "AYE",
+        "Name": "AYE Clementi Ave 6 into AYE",
         "Latitude": 1.308824549747605,
         "Longitude": 103.76641105715049,
         "Bearing": 203.5,
@@ -1403,7 +578,29 @@
             "Lat": 1.3088068574101,
             "Lon": 103.766451810344
         },
-        "WeekdayRates": {}
+        "WeekdayRates": {
+            "07:30-07:35": 2.0,
+            "07:35-07:55": 4.0,
+            "07:55-08:00": 3.0,
+            "08:00-08:05": 2.0,
+            "08:05-08:25": 2.0,
+            "08:25-08:30": 2.0,
+            "08:30-08:35": 2.5,
+            "08:35-08:55": 3.0,
+            "08:55-09:00": 2.5,
+            "09:00-09:05": 2.0,
+            "09:05-09:25": 2.0,
+            "09:25-09:30": 1.5,
+            "09:30-09:35": 1.0,
+            "09:35-09:55": 1.0,
+            "09:55-10:00": 0.5,
+            "17:30-17:35": 1.5,
+            "17:35-17:55": 3.0,
+            "17:55-18:00": 2.0,
+            "18:00-18:05": 1.0,
+            "18:05-18:25": 1.0,
+            "18:25-18:30": 0.5
+        }
     },
     {
         "GantryID": "44",
@@ -1585,23 +782,6 @@
         "LineEnd": {
             "Lat": 1.28784442983729,
             "Lon": 103.842726351981
-        },
-        "WeekdayRates": {}
-    },
-    {
-        "GantryID": "60",
-        "ZoneID": "CBD",
-        "Name": "Eu Tong Sen St at Central",
-        "Latitude": 1.28938974641223,
-        "Longitude": 103.8475978174935,
-        "Bearing": 220.1,
-        "LineStart": {
-            "Lat": 1.28945120248458,
-            "Lon": 103.847524907054
-        },
-        "LineEnd": {
-            "Lat": 1.28932829033988,
-            "Lon": 103.847670727933
         },
         "WeekdayRates": {}
     },
@@ -1935,6 +1115,23 @@
         "LineEnd": {
             "Lat": 1.31360534389646,
             "Lon": 103.870629496746
+        },
+        "WeekdayRates": {}
+    },
+    {
+        "GantryID": "71",
+        "ZoneID": "ART",
+        "Name": "Woodsville Tunnel",
+        "Latitude": 1.32724731710542,
+        "Longitude": 103.868467074657,
+        "Bearing": 28.2,
+        "LineStart": {
+            "Lat": 1.32721367520951,
+            "Lon": 103.868529719161
+        },
+        "LineEnd": {
+            "Lat": 1.32728095900133,
+            "Lon": 103.868404430153
         },
         "WeekdayRates": {}
     }
